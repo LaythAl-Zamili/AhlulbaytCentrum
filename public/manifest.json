@@ -1,0 +1,9 @@
+{
+  "name": "Ahlulbayt Centrum",
+  "short_name": "Ahlulbayt",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ec",
+  "theme_color": "#00784b",
+  "icons": [{"src":"/icon.png","sizes":"512x512","type":"image/png"}]
+}
